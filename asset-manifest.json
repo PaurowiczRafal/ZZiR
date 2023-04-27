@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.a773a283.css",
-    "main.js": "/ZZiR/static/js/main.02bf4e3a.js",
+    "main.css": "/ZZiR/static/css/main.55195123.css",
+    "main.js": "/ZZiR/static/js/main.f7dbc49f.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
+    "static/media/roofs-fig.png": "/ZZiR/static/media/roofs-fig.5e65691e00ca4122b04f.png",
+    "static/media/flowers-fig.png": "/ZZiR/static/media/flowers-fig.8fb16ba83fb6cd61a634.png",
     "static/media/home-button.svg": "/ZZiR/static/media/home-button.295fa97b90fbc7226956.svg",
     "index.html": "/ZZiR/index.html",
-    "main.a773a283.css.map": "/ZZiR/static/css/main.a773a283.css.map",
-    "main.02bf4e3a.js.map": "/ZZiR/static/js/main.02bf4e3a.js.map",
+    "main.55195123.css.map": "/ZZiR/static/css/main.55195123.css.map",
+    "main.f7dbc49f.js.map": "/ZZiR/static/js/main.f7dbc49f.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a773a283.css",
-    "static/js/main.02bf4e3a.js"
+    "static/css/main.55195123.css",
+    "static/js/main.f7dbc49f.js"
   ]
 }
