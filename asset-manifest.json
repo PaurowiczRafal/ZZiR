@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.29f1b304.css",
-    "main.js": "/ZZiR/static/js/main.3b97f72f.js",
+    "main.css": "/ZZiR/static/css/main.4d6767b4.css",
+    "main.js": "/ZZiR/static/js/main.f06ad6dd.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/roofs-fig.png": "/ZZiR/static/media/roofs-fig.5e65691e00ca4122b04f.png",
     "static/media/roofsection.png": "/ZZiR/static/media/roofsection.65eabc493e44209293fe.png",
@@ -28,12 +28,12 @@
     "static/media/layout-sm.svg": "/ZZiR/static/media/layout-sm.bbb183daee42988bfdf1cdabcb7c55fa.svg",
     "static/media/shape-md.svg": "/ZZiR/static/media/shape-md.eaed1d90870c557a6d9be32509a2c1c8.svg",
     "static/media/shape-sm.svg": "/ZZiR/static/media/shape-sm.4ae56b6602861261399f8e1cb95b7946.svg",
-    "main.29f1b304.css.map": "/ZZiR/static/css/main.29f1b304.css.map",
-    "main.3b97f72f.js.map": "/ZZiR/static/js/main.3b97f72f.js.map",
+    "main.4d6767b4.css.map": "/ZZiR/static/css/main.4d6767b4.css.map",
+    "main.f06ad6dd.js.map": "/ZZiR/static/js/main.f06ad6dd.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29f1b304.css",
-    "static/js/main.3b97f72f.js"
+    "static/css/main.4d6767b4.css",
+    "static/js/main.f06ad6dd.js"
   ]
 }
