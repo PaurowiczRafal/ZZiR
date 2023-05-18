@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.4d6767b4.css",
-    "main.js": "/ZZiR/static/js/main.f06ad6dd.js",
+    "main.css": "/ZZiR/static/css/main.5a35bf9d.css",
+    "main.js": "/ZZiR/static/js/main.dc33e47f.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
+    "static/media/gallery-5.jpeg": "/ZZiR/static/media/gallery-5.008475eddf8c4e8f30a8.jpeg",
+    "static/media/gallery-4.jpeg": "/ZZiR/static/media/gallery-4.1b5becfd5563205fe1fe.jpeg",
+    "static/media/gallery-2.jpeg": "/ZZiR/static/media/gallery-2.f827372da49324ad9d74.jpeg",
+    "static/media/gallery-3.jpeg": "/ZZiR/static/media/gallery-3.4980f246da89af4d54b4.jpeg",
+    "static/media/gallery-1.jpeg": "/ZZiR/static/media/gallery-1.2fe07a4c44f4b7827c7b.jpeg",
     "static/media/roofs-fig.png": "/ZZiR/static/media/roofs-fig.5e65691e00ca4122b04f.png",
     "static/media/roofsection.png": "/ZZiR/static/media/roofsection.65eabc493e44209293fe.png",
     "static/media/flowers-fig.png": "/ZZiR/static/media/flowers-fig.8fb16ba83fb6cd61a634.png",
@@ -28,12 +33,12 @@
     "static/media/layout-sm.svg": "/ZZiR/static/media/layout-sm.bbb183daee42988bfdf1cdabcb7c55fa.svg",
     "static/media/shape-md.svg": "/ZZiR/static/media/shape-md.eaed1d90870c557a6d9be32509a2c1c8.svg",
     "static/media/shape-sm.svg": "/ZZiR/static/media/shape-sm.4ae56b6602861261399f8e1cb95b7946.svg",
-    "main.4d6767b4.css.map": "/ZZiR/static/css/main.4d6767b4.css.map",
-    "main.f06ad6dd.js.map": "/ZZiR/static/js/main.f06ad6dd.js.map",
+    "main.5a35bf9d.css.map": "/ZZiR/static/css/main.5a35bf9d.css.map",
+    "main.dc33e47f.js.map": "/ZZiR/static/js/main.dc33e47f.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d6767b4.css",
-    "static/js/main.f06ad6dd.js"
+    "static/css/main.5a35bf9d.css",
+    "static/js/main.dc33e47f.js"
   ]
 }
