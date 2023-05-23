@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.57653f9c.css",
-    "main.js": "/ZZiR/static/js/main.b8f0a981.js",
+    "main.css": "/ZZiR/static/css/main.73403b0e.css",
+    "main.js": "/ZZiR/static/js/main.4c1ff1f4.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/gallery-5.jpeg": "/ZZiR/static/media/gallery-5.008475eddf8c4e8f30a8.jpeg",
     "static/media/gallery-4.jpeg": "/ZZiR/static/media/gallery-4.1b5becfd5563205fe1fe.jpeg",
@@ -13,7 +13,6 @@
     "static/media/flowers-fig.png": "/ZZiR/static/media/flowers-fig.8fb16ba83fb6cd61a634.png",
     "static/media/contact.png": "/ZZiR/static/media/contact.0189613d5d6507ede3d4.png",
     "static/media/testimonials.png": "/ZZiR/static/media/testimonials.ab2520bbc3a4cc077ee3.png",
-    "static/media/flowers-sm.jpeg": "/ZZiR/static/media/flowers-sm.608a1d27efd1169f6a13.jpeg",
     "static/media/home-md.svg": "/ZZiR/static/media/home-md.617d2ac6c1ec679b9c4a1e2cb21aa0d4.svg",
     "static/media/home-button-mobile.svg": "/ZZiR/static/media/home-button-mobile.4c2b3afa680d6fd79288.svg",
     "static/media/home-button.svg": "/ZZiR/static/media/home-button.295fa97b90fbc7226956.svg",
@@ -33,12 +32,12 @@
     "static/media/layout-sm.svg": "/ZZiR/static/media/layout-sm.bbb183daee42988bfdf1cdabcb7c55fa.svg",
     "static/media/shape-md.svg": "/ZZiR/static/media/shape-md.eaed1d90870c557a6d9be32509a2c1c8.svg",
     "static/media/shape-sm.svg": "/ZZiR/static/media/shape-sm.4ae56b6602861261399f8e1cb95b7946.svg",
-    "main.57653f9c.css.map": "/ZZiR/static/css/main.57653f9c.css.map",
-    "main.b8f0a981.js.map": "/ZZiR/static/js/main.b8f0a981.js.map",
+    "main.73403b0e.css.map": "/ZZiR/static/css/main.73403b0e.css.map",
+    "main.4c1ff1f4.js.map": "/ZZiR/static/js/main.4c1ff1f4.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57653f9c.css",
-    "static/js/main.b8f0a981.js"
+    "static/css/main.73403b0e.css",
+    "static/js/main.4c1ff1f4.js"
   ]
 }
