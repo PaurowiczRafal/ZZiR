@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.73403b0e.css",
-    "main.js": "/ZZiR/static/js/main.5dd3b4e6.js",
+    "main.css": "/ZZiR/static/css/main.422949df.css",
+    "main.js": "/ZZiR/static/js/main.366cd1ee.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/gallery-5.jpeg": "/ZZiR/static/media/gallery-5.008475eddf8c4e8f30a8.jpeg",
     "static/media/gallery-4.jpeg": "/ZZiR/static/media/gallery-4.1b5becfd5563205fe1fe.jpeg",
@@ -14,7 +14,7 @@
     "static/media/contact.png": "/ZZiR/static/media/contact.0189613d5d6507ede3d4.png",
     "static/media/testimonials.png": "/ZZiR/static/media/testimonials.ab2520bbc3a4cc077ee3.png",
     "static/media/home-md.svg": "/ZZiR/static/media/home-md.617d2ac6c1ec679b9c4a1e2cb21aa0d4.svg",
-    "static/media/home-button-mobile.svg": "/ZZiR/static/media/home-button-mobile.4c2b3afa680d6fd79288.svg",
+    "static/media/home-button-mobile.svg": "/ZZiR/static/media/home-button-mobile.d7694da91ffb1e091f7e.svg",
     "static/media/home-button.svg": "/ZZiR/static/media/home-button.295fa97b90fbc7226956.svg",
     "static/media/home-sm.svg": "/ZZiR/static/media/home-sm.e8ce4df9d226c0ec9afb385537f5ba01.svg",
     "static/media/bug-md.svg": "/ZZiR/static/media/bug-md.222c48e539b8c9b9b7fc9c1449ad2a84.svg",
@@ -28,16 +28,17 @@
     "static/media/seedling-sm.svg": "/ZZiR/static/media/seedling-sm.b7617e954fa718eb7fd34069c3378b41.svg",
     "static/media/layout-md.svg": "/ZZiR/static/media/layout-md.a8bdc6a0409ca2e352898b269216242d.svg",
     "static/media/pen-md.svg": "/ZZiR/static/media/pen-md.3e297355fa272bd08cc8abf926e3ca97.svg",
+    "static/media/plant.svg": "/ZZiR/static/media/plant.2d62183a3051db693a3b.svg",
     "static/media/pen-sm.svg": "/ZZiR/static/media/pen-sm.9a136c97d55c1812974868911b5f0167.svg",
     "static/media/layout-sm.svg": "/ZZiR/static/media/layout-sm.bbb183daee42988bfdf1cdabcb7c55fa.svg",
     "static/media/shape-md.svg": "/ZZiR/static/media/shape-md.eaed1d90870c557a6d9be32509a2c1c8.svg",
     "static/media/shape-sm.svg": "/ZZiR/static/media/shape-sm.4ae56b6602861261399f8e1cb95b7946.svg",
-    "main.73403b0e.css.map": "/ZZiR/static/css/main.73403b0e.css.map",
-    "main.5dd3b4e6.js.map": "/ZZiR/static/js/main.5dd3b4e6.js.map",
+    "main.422949df.css.map": "/ZZiR/static/css/main.422949df.css.map",
+    "main.366cd1ee.js.map": "/ZZiR/static/js/main.366cd1ee.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73403b0e.css",
-    "static/js/main.5dd3b4e6.js"
+    "static/css/main.422949df.css",
+    "static/js/main.366cd1ee.js"
   ]
 }
