@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.49b8ac2f.css",
-    "main.js": "/ZZiR/static/js/main.f766ba6a.js",
+    "main.css": "/ZZiR/static/css/main.89677d0f.css",
+    "main.js": "/ZZiR/static/js/main.8e60c51e.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/ZielenMiejska.jpg": "/ZZiR/static/media/ZielenMiejska.997b4bbd4c202ed461df.jpg",
     "static/media/onas-4.png": "/ZZiR/static/media/onas-4.565da1790903004a8cfe.png",
@@ -19,7 +19,6 @@
     "static/media/gallery-3.jpeg": "/ZZiR/static/media/gallery-3.4980f246da89af4d54b4.jpeg",
     "static/media/gallery-1.jpeg": "/ZZiR/static/media/gallery-1.2fe07a4c44f4b7827c7b.jpeg",
     "static/media/header-1-test.jpg": "/ZZiR/static/media/header-1-test.24820a8a183f93bb3fa9.jpg",
-    "static/media/contact.png": "/ZZiR/static/media/contact.edd7d6a9e1cad72ea410.png",
     "static/media/onas-2.jpg": "/ZZiR/static/media/onas-2.ce77bc9847781b24a0de.jpg",
     "static/media/onas-7.jpg": "/ZZiR/static/media/onas-7.523e422d77a78f006049.jpg",
     "static/media/onas-1.jpg": "/ZZiR/static/media/onas-1.e69a9ef902e6be2b5daf.jpg",
@@ -60,15 +59,17 @@
     "static/media/shape-sm.svg": "/ZZiR/static/media/shape-sm.4ae56b6602861261399f8e1cb95b7946.svg",
     "static/media/shape.svg": "/ZZiR/static/media/shape.1d21eb93380474a27ba7774bcfd91ff7.svg",
     "static/media/microsoft.svg": "/ZZiR/static/media/microsoft.222449bb212a80dfc67453adcbde4a33.svg",
+    "static/media/arrowLeft.svg": "/ZZiR/static/media/arrowLeft.4ff7854e7977f66f0c755f4f386bf28d.svg",
+    "static/media/arrowRight.svg": "/ZZiR/static/media/arrowRight.b295aba8d88583bea940638e3c201cc3.svg",
     "static/media/menu.svg": "/ZZiR/static/media/menu.d5c4b89ef36c778cbe88289f76bce6f7.svg",
     "static/media/plus.svg": "/ZZiR/static/media/plus.f4a768ba5e12aa0e670bc19d748e74ec.svg",
     "static/media/minus.svg": "/ZZiR/static/media/minus.1922f77eb04b5d1eb95d5754d019b920.svg",
-    "main.49b8ac2f.css.map": "/ZZiR/static/css/main.49b8ac2f.css.map",
-    "main.f766ba6a.js.map": "/ZZiR/static/js/main.f766ba6a.js.map",
+    "main.89677d0f.css.map": "/ZZiR/static/css/main.89677d0f.css.map",
+    "main.8e60c51e.js.map": "/ZZiR/static/js/main.8e60c51e.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49b8ac2f.css",
-    "static/js/main.f766ba6a.js"
+    "static/css/main.89677d0f.css",
+    "static/js/main.8e60c51e.js"
   ]
 }
