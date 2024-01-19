@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.6449fc54.css",
+    "main.css": "/ZZiR/static/css/main.1f24d02d.css",
     "main.js": "/ZZiR/static/js/main.2e01aee3.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/ZielenMiejska.jpg": "/ZZiR/static/media/ZielenMiejska.997b4bbd4c202ed461df.jpg",
@@ -64,12 +64,12 @@
     "static/media/menu.svg": "/ZZiR/static/media/menu.d5c4b89ef36c778cbe88289f76bce6f7.svg",
     "static/media/plus.svg": "/ZZiR/static/media/plus.f4a768ba5e12aa0e670bc19d748e74ec.svg",
     "static/media/minus.svg": "/ZZiR/static/media/minus.1922f77eb04b5d1eb95d5754d019b920.svg",
-    "main.6449fc54.css.map": "/ZZiR/static/css/main.6449fc54.css.map",
+    "main.1f24d02d.css.map": "/ZZiR/static/css/main.1f24d02d.css.map",
     "main.2e01aee3.js.map": "/ZZiR/static/js/main.2e01aee3.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6449fc54.css",
+    "static/css/main.1f24d02d.css",
     "static/js/main.2e01aee3.js"
   ]
 }
