@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZZiR/static/css/main.697ce20b.css",
-    "main.js": "/ZZiR/static/js/main.9a397e05.js",
+    "main.js": "/ZZiR/static/js/main.fe72ea95.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/ZielenMiejska.jpg": "/ZZiR/static/media/ZielenMiejska.997b4bbd4c202ed461df.jpg",
     "static/media/onas-4.png": "/ZZiR/static/media/onas-4.565da1790903004a8cfe.png",
@@ -26,7 +26,7 @@
     "static/media/onas-3.jpg": "/ZZiR/static/media/onas-3.8c2baf07122b18ff8b82.jpg",
     "static/media/onas-5.jpg": "/ZZiR/static/media/onas-5.41d167a3a489aff61b74.jpg",
     "static/media/layer.png": "/ZZiR/static/media/layer.db7b5ba8c1c8b14445c6.png",
-    "static/media/endemol.png": "/ZZiR/static/media/endemol.234dcfe775697f84c9f0.png",
+    "static/media/endemol.png": "/ZZiR/static/media/endemol.85183e3f8511c3b6ed7a.png",
     "static/media/screenshot-line.svg": "/ZZiR/static/media/screenshot-line.3b4481d6b7258accccc27f9bd98b2397.svg",
     "static/media/home-md.svg": "/ZZiR/static/media/home-md.617d2ac6c1ec679b9c4a1e2cb21aa0d4.svg",
     "static/media/contacts-book.svg": "/ZZiR/static/media/contacts-book.bf62af5af2e4d67d0beecf25f09c4e7e.svg",
@@ -65,11 +65,11 @@
     "static/media/plus.svg": "/ZZiR/static/media/plus.f4a768ba5e12aa0e670bc19d748e74ec.svg",
     "static/media/minus.svg": "/ZZiR/static/media/minus.1922f77eb04b5d1eb95d5754d019b920.svg",
     "main.697ce20b.css.map": "/ZZiR/static/css/main.697ce20b.css.map",
-    "main.9a397e05.js.map": "/ZZiR/static/js/main.9a397e05.js.map",
+    "main.fe72ea95.js.map": "/ZZiR/static/js/main.fe72ea95.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.697ce20b.css",
-    "static/js/main.9a397e05.js"
+    "static/js/main.fe72ea95.js"
   ]
 }
