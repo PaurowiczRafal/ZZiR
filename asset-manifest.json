@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZZiR/static/css/main.b8609c33.css",
-    "main.js": "/ZZiR/static/js/main.67968433.js",
+    "main.js": "/ZZiR/static/js/main.38e24273.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/ZielenMiejska.jpg": "/ZZiR/static/media/ZielenMiejska.997b4bbd4c202ed461df.jpg",
     "static/media/onas-4.png": "/ZZiR/static/media/onas-4.565da1790903004a8cfe.png",
@@ -64,11 +64,11 @@
     "static/media/minus.svg": "/ZZiR/static/media/minus.1922f77eb04b5d1eb95d5754d019b920.svg",
     "static/media/plus.svg": "/ZZiR/static/media/plus.d19c8ee8baadd43d86fb30364713dcbb.svg",
     "main.b8609c33.css.map": "/ZZiR/static/css/main.b8609c33.css.map",
-    "main.67968433.js.map": "/ZZiR/static/js/main.67968433.js.map",
+    "main.38e24273.js.map": "/ZZiR/static/js/main.38e24273.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8609c33.css",
-    "static/js/main.67968433.js"
+    "static/js/main.38e24273.js"
   ]
 }
