@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.e2eb2c19.css",
-    "main.js": "/ZZiR/static/js/main.1222a947.js",
+    "main.css": "/ZZiR/static/css/main.1e0b9b48.css",
+    "main.js": "/ZZiR/static/js/main.4d658096.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/ZielenMiejska.jpg": "/ZZiR/static/media/ZielenMiejska.997b4bbd4c202ed461df.jpg",
     "static/media/onas-4.png": "/ZZiR/static/media/onas-4.565da1790903004a8cfe.png",
@@ -27,6 +27,7 @@
     "static/media/layer.png": "/ZZiR/static/media/layer.db7b5ba8c1c8b14445c6.png",
     "static/media/endemol.png": "/ZZiR/static/media/endemol.85183e3f8511c3b6ed7a.png",
     "static/media/screenshot-line.svg": "/ZZiR/static/media/screenshot-line.3b4481d6b7258accccc27f9bd98b2397.svg",
+    "static/media/LOGO.svg": "/ZZiR/static/media/LOGO.550207d7b86f67edff77d05c90d7ccd0.svg",
     "static/media/home-md.svg": "/ZZiR/static/media/home-md.617d2ac6c1ec679b9c4a1e2cb21aa0d4.svg",
     "static/media/contacts-book.svg": "/ZZiR/static/media/contacts-book.bf62af5af2e4d67d0beecf25f09c4e7e.svg",
     "static/media/home-button-mobile.svg": "/ZZiR/static/media/home-button-mobile.d7694da91ffb1e091f7e.svg",
@@ -63,12 +64,12 @@
     "static/media/menu.svg": "/ZZiR/static/media/menu.d5c4b89ef36c778cbe88289f76bce6f7.svg",
     "static/media/minus.svg": "/ZZiR/static/media/minus.1922f77eb04b5d1eb95d5754d019b920.svg",
     "static/media/plus.svg": "/ZZiR/static/media/plus.d19c8ee8baadd43d86fb30364713dcbb.svg",
-    "main.e2eb2c19.css.map": "/ZZiR/static/css/main.e2eb2c19.css.map",
-    "main.1222a947.js.map": "/ZZiR/static/js/main.1222a947.js.map",
+    "main.1e0b9b48.css.map": "/ZZiR/static/css/main.1e0b9b48.css.map",
+    "main.4d658096.js.map": "/ZZiR/static/js/main.4d658096.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2eb2c19.css",
-    "static/js/main.1222a947.js"
+    "static/css/main.1e0b9b48.css",
+    "static/js/main.4d658096.js"
   ]
 }
