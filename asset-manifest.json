@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZZiR/static/css/main.ba37ec08.css",
-    "main.js": "/ZZiR/static/js/main.5b055864.js",
+    "main.css": "/ZZiR/static/css/main.2f430155.css",
+    "main.js": "/ZZiR/static/js/main.91c0c90b.js",
     "static/js/787.d73eac3d.chunk.js": "/ZZiR/static/js/787.d73eac3d.chunk.js",
     "static/media/ZielenMiejska.jpg": "/ZZiR/static/media/ZielenMiejska.997b4bbd4c202ed461df.jpg",
     "static/media/onas-4.png": "/ZZiR/static/media/onas-4.565da1790903004a8cfe.png",
@@ -64,12 +64,12 @@
     "static/media/menu.svg": "/ZZiR/static/media/menu.d5c4b89ef36c778cbe88289f76bce6f7.svg",
     "static/media/minus.svg": "/ZZiR/static/media/minus.1922f77eb04b5d1eb95d5754d019b920.svg",
     "static/media/plus.svg": "/ZZiR/static/media/plus.d19c8ee8baadd43d86fb30364713dcbb.svg",
-    "main.ba37ec08.css.map": "/ZZiR/static/css/main.ba37ec08.css.map",
-    "main.5b055864.js.map": "/ZZiR/static/js/main.5b055864.js.map",
+    "main.2f430155.css.map": "/ZZiR/static/css/main.2f430155.css.map",
+    "main.91c0c90b.js.map": "/ZZiR/static/js/main.91c0c90b.js.map",
     "787.d73eac3d.chunk.js.map": "/ZZiR/static/js/787.d73eac3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba37ec08.css",
-    "static/js/main.5b055864.js"
+    "static/css/main.2f430155.css",
+    "static/js/main.91c0c90b.js"
   ]
 }
